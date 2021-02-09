@@ -819,7 +819,6 @@ button {
         bottom: 0;
         left: 0;
         right: 0;
-        background: linear-gradient(135deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0) 80%);
         padding: 1rem;
         display: -webkit-box;
         display: -ms-flexbox;
@@ -1180,7 +1179,6 @@ button {
         bottom: 0;
         left: 0;
         right: 0;
-        background: linear-gradient(45deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0) 80%);
         padding: 1.5rem;
         display: -webkit-box;
         display: -ms-flexbox;
@@ -1196,7 +1194,6 @@ button {
 
 @media screen and (max-width: 960px) {
     .slide .gard-overlay {
-        background: linear-gradient(135deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0) 80%);
         -webkit-box-orient: vertical;
         -webkit-box-direction: normal;
         -ms-flex-direction: column;
